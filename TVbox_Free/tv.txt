@@ -383,7 +383,7 @@
 {
 "name": "redirect",
 "urls": [
-"proxy://do=live&type=txt&ext=aHR0cHM6Ly9jZG4uanNkZWxpdnIubmV0L2doL0N5cmlsMDU2My9sYW5qaW5nX2xpdmVAbWFpbi9UVmJveF9GcmVlL0xJVkUvRnJlZS90dmJveF9saXZlLnR4dA=="
+"proxy://do=live&type=txt&ext=aHR0cHM6Ly9jZG4uanNkZWxpdnIubmV0L2doL1pldi1XdS9ib3hfbGl2ZUBtYWluL1RWYm94X0ZyZWUvTElWRS9GcmVlL3R2Ym94X2xpdmUudHh0"
 ]
 }
 ]
